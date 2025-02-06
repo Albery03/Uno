@@ -1,2 +1,2 @@
 # Uno
-First Repo
+Training course test.
